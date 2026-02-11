@@ -43,7 +43,7 @@ Create a new file at `src/content/reviews/your-name.json`:
 
 ### 4. Add Your Image (Optional)
 
-Put your image in `src/assets/participants/your-name.png`
+Put your image in `public/your-name.png`
 
 ### 5. Commit Your Changes
 
